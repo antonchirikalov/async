@@ -1,0 +1,9 @@
+/cmd/*/__debug_bin
+/cmd/*/*.json
+*.sw?
+.env/
+.vscode/
+*.log
+*.orig
+*.exe
+/.idea
